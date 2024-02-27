@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Background / CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D.** in *Electronic and Electrical Engineering*, University College London, London, United Kingdon
+  October 2021 - *present* (Expected: October 2025)
+* **Oxford Machine Learning Summer School** in *ML x Health*, AI for Global Goals, Oxford, United Kingdom
+  August 2022
+* **B.Eng.** in *Electrical and Computer Engineering*, American University of Beirut, Beirut, Lebanon
+  August 2017 - June 2021
 
 Work experience
 ======
