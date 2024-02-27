@@ -12,10 +12,13 @@ redirect_from:
 Education
 ======
 * **Ph.D.** in *Electronic and Electrical Engineering*, University College London, London, United Kingdon
+
   October 2021 - *present* (Expected: October 2025)
 * **Oxford Machine Learning Summer School** in *ML x Health*, AI for Global Goals, Oxford, United Kingdom
+
   August 2022
 * **B.Eng.** in *Electrical and Computer Engineering*, American University of Beirut, Beirut, Lebanon
+
   August 2017 - June 2021
 
 Work experience
