@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-title                    : "Nagham Osman"
+title                    : "Nagham Osman's Homepage"
 title_separator          : "-"
 name                     : &name "Nagham Osman"
 description              : &description "PhD student at UCL"
