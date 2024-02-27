@@ -20,48 +20,23 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Data Science Intern** in *Quant Analytics Team*, Instinet, London, United Kingdom<br>
+  June 2023 - August 2023
+* **Postgraduate Teaching Assistant**, University College London, London, United Kingdom<br>
+  December 2021 - *present*
+* **Associate Technical Consultant**, SAS Middle East, (Remote) Dubai, United Arab Emirates<br>
+  August 2021 - October 2021
+* **Research Assistant**, CYENS - Centre of Excellence, Nicosia, Cyprus<br>
+  June 2020 - January 2021
+* **Research Assistant** in *Machine Learning*, American University of Beirut, Beirut, Lebanon<br>
+  December 2019 - May 2021
+* **Research Assistant** in *Quantum Computing*, American University of Beirut, Beirut, Lebanon<br>
+  July 2019 - May 2020
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Awards
+======
+* **Dean's Honor List** for *all attended semesters* and ranking among the top 10% of cohort (2017 - 2021) at the American University of Beirut, Beirut, Lebanon
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Service
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Book Proposal Reviewer** for Taylor & Francis, March 2024
