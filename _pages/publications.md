@@ -17,5 +17,6 @@ Workshops
 * [MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation](https://openreview.net/forum?id=M6Ifac3G4HK)
   * Clement Vignac, Nagham Osman, Laura Toni, Pascal Frossard
   * International Conference on Machine Learning 2023, Machine Learning for Drug Discovery Workshop
+
  
 * marks equal contribution
