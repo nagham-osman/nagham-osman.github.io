@@ -1,9 +1,3 @@
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-
 Conference Proceedings
 ======
 * [MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation](https://arxiv.org/pdf/2302.09048.pdf)
