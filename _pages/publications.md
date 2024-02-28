@@ -19,4 +19,4 @@ Workshops
   * International Conference on Machine Learning 2023, Machine Learning for Drug Discovery Workshop
 
  
-* marks equal contribution
+ *marks equal contribution
