@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* **PhD** in *Machine Learning*, University College London, London, United Kingdom<br>
-  October 2021 - *present* (Expected: October 2025)
-* **B.Eng.** in *Electrical and Computer Engineering*, American University of Beirut, Beirut, Lebanon<br>
+* **PhD** in *Artificial Intelligence*, University College London, London, United Kingdom<br>
+  October 2021 - *present* (Expected: May 2026)
+* **Bachelor of Engineering** in *Electrical and Computer Engineering*, American University of Beirut, Beirut, Lebanon<br>
   August 2017 - June 2021
 
 Research Experience
 ======
-* **PhD Student** in *Machine Learning*, University College London, London, United Kingdom<br>
+* **PhD Researcher** in *Artificial Intelligence*, University College London, London, United Kingdom<br>
   October 2021 - *present* 
 * **Machine Learning Research Assistant Intern**, CYENS - Centre of Excellence, Nicosia, Cyprus<br>
   June 2020 - January 2021
