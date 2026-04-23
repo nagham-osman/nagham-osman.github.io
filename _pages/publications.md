@@ -16,8 +16,15 @@ Workshops
 ======
 * [MiDi: Mixed Graph and 3D Denoising Diffusion for Molecule Generation](https://openreview.net/forum?id=M6Ifac3G4HK)
   * Clement Vignac, **Nagham Osman**, Laura Toni, Pascal Frossard
-  * International Conference on Machine Learning 2023, Machine Learning for Drug Discovery Workshop
+  * International Conference on Learning Representations (ICLR) 2023, Machine Learning for Drug Discovery Workshop
   * Graph Signal Processing Workshop 2023 - *Oral Presentation*
 
+* [LGDC: Latent Graph Diffusion via Spectrum‑Preserving Coarsening](https://arxiv.org/pdf/2512.01190)
+  * **Nagham Osman**, Keyue Jiang, Davide Buffelli, Xiaowen Dong, Laura Toni
+  * Advances in Neural Information Processing Systems (NeurIPS) 2025, New Perspectives in Advancing Graph Machine Learning Workshop
+ 
+* [From In Silico to In Vitro: Evaluating Molecule Generative Models for Hit Generation](https://arxiv.org/pdf/2512.22031)
+  * **Nagham Osman**, Vittorio Lembo, Giovanni Bottegoni, Laura Toni
+  * Advances in Neural Information Processing Systems (NeurIPS) 2025, AI for Science Workshop
  
  *marks equal contribution
